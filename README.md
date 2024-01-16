@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # human-behavior-detection-yolov8-pose
-=======
-# human-behavior-detection-yolov8-pose
-
 ## Introduction
 Use yolov8-pose and cv2 to extract keypoint name in human body. Thus, we can identify specific parts of an object in a scene, and their location in relation to each other. In this project i used keypoint to identify human behavior to detect violence like break glass, theft,..
 

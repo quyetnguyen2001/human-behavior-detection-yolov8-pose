@@ -29,4 +29,3 @@ Examples of input.
 <p align="center">
   <img width="700" height="550" src=out_put_1.gif>
 </p>
->>>>>>> 7fe011a (test)
